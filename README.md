@@ -39,3 +39,6 @@ Ao executar, você verá um menu com 5 opções:
 4. Remover tarefa
 5. Sair
 ```
+## 👨‍💻 Autor
+
+Criado como projeto de aprendizado de Ruby.
