@@ -1,4 +1,10 @@
 puts "=== SIMULADOR DE DADOS RPG ==="
+puts ""
+puts "     ★ Gerenciador de Tarefas ★"
+puts "      @by Richard_Leichter"
+puts ""
+puts "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+puts "\n"
 
 DADOS = {
 
